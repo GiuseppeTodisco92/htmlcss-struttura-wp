@@ -24,19 +24,18 @@ header {
 .box {
   background-color: #e1d67a;
   height: 700px;
-  margin: 50px 0 50px 0;
+  margin: 40px 0 40px 0;
 }
 
 .box2 {
   background-color: #abcfe7;
   height: 100px;
-  margin-top: 50px;
 }
 
 .box3 {
   background-color: #0086ff;
   height: 800px;
-  margin-bottom: 25px;
+  margin-bottom: 10px;
 }
 
 .columnleft,
@@ -58,4 +57,10 @@ header {
   margin-bottom: 30px;
   margin-left: 20px;
   margin-right: 20px;
+}
+
+footer {
+  background-color: #8801fe;
+  height: 70px;
+  margin-bottom: 20px;
 }
